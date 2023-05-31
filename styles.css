@@ -1,0 +1,81 @@
+.header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    display: inline-block;
+}
+
+.nav {
+    width: 50%;
+    position: relative;
+    margin: 0 auto;
+}
+
+.nav__link {
+    margin: 5px 0px 0px 25px; 
+    color: black; 
+    text-decoration: none;
+}
+
+.nav__link:hover {
+    text-decoration: underline;
+    color: cornflowerblue;
+}
+
+.container {
+    position: relative;
+}
+
+.headline1 {
+    font-family: "Gill Sans", sans-serif;
+    font-size: 65px;
+    color: white;
+    margin-left: 47px;
+    z-index: 0;
+    top: 6%;
+    position: absolute;
+}
+
+.bridge {
+    width: 100%;
+}
+
+.text{
+    color: black;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 25px 0px 0px 50px;
+  }
+
+.about {
+    display: inline-block;
+    font-family: "Gill Sans", sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+    width: 300px;
+    padding: 12px 10px 13px;
+    color: black;
+    text-align: center;
+    border: 1px solid;
+    margin: 10px 0px 0px 10px;
+    background: white;
+}
+
+.textline {
+    color: black;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    margin: 25px 0px 0px 50px;
+}
+
+.headline2 {
+    font: 50px "Gill Sans", sans-serif;
+    color: black;
+    font-weight: 600;
+    margin-left: 50px;
+}
