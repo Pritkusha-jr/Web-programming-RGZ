@@ -79,3 +79,24 @@
     font-weight: 600;
     margin-left: 50px;
 }
+
+footer{
+    position: absolute;
+    display: block;
+    width: 99.9%;
+    color: black;
+  }
+
+  .headline3 {
+    font: 30px "Gill Sans", sans-serif;
+    color: black;
+    font-weight: 600;
+    margin-left: 50px;
+}
+
+table{
+    width: 100%;
+    color: black;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 400;
+  }
