@@ -1,11 +1,14 @@
 .header{
     position: fixed;
     top: 0;
+    right: 0;
     width: 100%;
     background-color: white;
     color: black;
     padding: 10px;
     display: inline-block;
+    z-index: 1000px;
+
 }
 
 .nav {
